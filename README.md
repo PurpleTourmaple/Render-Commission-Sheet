@@ -1,5 +1,8 @@
 ## Render Commission Sheet
 
+### ⚠️ To avoid loss when working with PayPal and their BS fees, my prices are listed in Euros (€) since this is my local currency. You should mind the conversion rate (1€ = roughly $1.08)
+	- For reference, a 100€ commission would be ~ $108
+
 #### What I can do:
 - Static Renders/Posters
 - Profile pictures
@@ -11,30 +14,30 @@
 ## Pricing:
 
 #### Render:
-- Starts at **$40** for a single character and a single render
-- Additional character: **$15**
+- Starts at **40€** for a single character and a single render
+- Additional character: **15€**
 
 #### Alternative Renders:
-- Simple alternative render (alt outfit, alt angle, alt character, etc): **$10**
-- Alternative scene: **starts at $25** + alts if any
+- Simple alternative render (alt outfit, alt angle, alt character, etc): **10€**
+- Alternative scene: **starts at 25€** + alts if any
 - If the total price of the commission is high enough, a discount of **35%** can be offered to additional alts, if more are needed! Meaning even more alts for less!
 
 #### Background:
-- Single color, transparent, pattern: **$0**
-- 3D Scene: **$10**
+- Single color, transparent, pattern: **0€**
+- 3D Scene: **10€**
 
 #### Simulations:
-- Clothes (falling/dropped, realistic fitting, etc): **$10**
-- Squish/Soft Bodies (sitting, knees, boobs/butts, tight clothes, ropes, etc): **$10**
-- Liquid (water, cum, urine, etc): **$10**
-- Fire (explosions, smoke, flames, etc): **$10**
+- Clothes (falling/dropped, realistic fitting, etc): **10€**
+- Squish/Soft Bodies (sitting, knees, boobs/butts, tight clothes, ropes, etc): **10€**
+- Liquid (water, cum, urine, etc): **10€**
+- Fire (explosions, smoke, flames, etc): **10€**
 
 ℹ️ The price depends on how many alts you need, since a simulation is done per-outfit or per-character
 
 #### Features:
-- Post Processing: **$10** (free for **> $150 total**)
-- Scene FX (dust sim, volumetric fog, etc): **$10** (free for **> $150 total**)
-- Texture Upscaling and Custom Materials: **$15** (free for **> $150 total**)
+- Post Processing: **10€** (free for **> 150€ total**)
+- Scene FX (dust sim, volumetric fog, etc): **10€** (free for **> 150€ total**)
+- Texture Upscaling and Custom Materials: **15€** (free for **> 150€ total**)
 - Extra features depending on the needs (outfit port, recolor, etc): **Depends on the request**
 
 #### Additional modeling:
@@ -44,10 +47,10 @@
 
 #### Details:
 - Image Resolution (based on the amount of alts):
-	- 1k: **$0**
-	- 2k: **$2 per alt/render**
-	- 4k: **$5 per alt/render**
-- Model edit: Varying based on the request, usually around **$5 per edit** or **$0 based on the total**
+	- 1k: **0€**
+	- 2k: **2€ per alt/render**
+	- 4k: **5€ per alt/render**
+- Model edit: Varying based on the request, usually around **5€ per edit** or **0€ based on the total**
 
 ## Rules and Process:
 - You **𝗠𝗨𝗦𝗧** be **𝟭𝟴+** to request a commission.
